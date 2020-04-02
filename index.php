@@ -1,5 +1,5 @@
 <?php
 
-echo "Baer is a cuck;
+echo "Baer is a cuck";
 
 ?>
